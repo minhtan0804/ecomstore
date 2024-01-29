@@ -20,3 +20,6 @@ values('9', 'Dum1', 'dum1', 'Guitar ABC', '72721', '71.72', '71.72', 'images/pro
 insert into products_categories(id, product_id, category_id) values( '7', '7', '1');
 insert into products_categories(id, product_id, category_id) values( '8', '8', '2');
 insert into products_categories(id, product_id, category_id) values( '9', '9', '4');
+
+
+
